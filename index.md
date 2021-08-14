@@ -1,4 +1,5 @@
 ---
+theme: minima
 title: "Welcome to Mahfuza's blog"
 ---
 
